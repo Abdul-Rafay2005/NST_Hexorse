@@ -7,7 +7,7 @@
 [![Styling](https://img.shields.io/badge/Styling-Tailwind%20CSS%203-38bdf8.svg)](https://tailwindcss.com/)
 [![Status](https://img.shields.io/badge/Phase%201-Verified%20Complete-emerald.svg)]()
 
-> **Project Mission:** An autonomous, space-mission-control health dashboard designed for astronauts on long-duration deep space exploration missions (e.g. Lunar Gateway, Mars transit). The software empowers astronauts to record daily biometrics, monitor physiological triage statuses through color-coded indicators, compare telemetry against pre-flight baselines, and receive operational health feedback in communication-delayed environments.
+> **Project Mission:** An autonomous, space-mission-control health dashboard designed for astronauts on long-duration deep space exploration missions (e.g. Lunar Gateway, Mars transit). The software empowers astronauts to record daily biometrics, monitor physiological triage statuses through color-coded indicators, compare telemetry against pre-flight baselines, and receive operational health feedback in communication-delayed environments
 
 ---
 
